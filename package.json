@@ -4,14 +4,14 @@
   "description": "Node FTP Server",
   "main": "./lib/ftpd.js",
   "engines": {
-    "node": ">=0.10.0"
+    "node": "7.00.0"
   },
   "scripts": {
     "test": "node_modules/.bin/istanbul test _mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sstur/nodeftpd.git"
+    "url": "git@github.com:lucidNTR/nodeftpd.git"
   },
   "keywords": [
     "ftp",
@@ -55,7 +55,7 @@
   ],
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/sstur/nodeftpd/issues"
+    "url": "https://github.com/lucidNTR/nodeftpd/issues"
   },
   "dependencies": {
     "dateformat": "1.0.7-1.2.3"
