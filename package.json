@@ -4,7 +4,7 @@
   "description": "Node FTP Server",
   "main": "./lib/ftpd.js",
   "engines": {
-    "node": "7.00.0"
+    "node": "^7.2.0"
   },
   "scripts": {
     "test": "node_modules/.bin/istanbul test _mocha"
